@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot_mongo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ZQ
+Implementation-Vendor-Id: com.mongo.web
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot_mongo
+Created-By: Maven Integration for Eclipse
+
